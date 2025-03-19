@@ -20,6 +20,39 @@
 ![1](screenshots/Praktikum%201/19.jpg)
 ![1](screenshots/Praktikum%201/20.jpg)
 
+# Praktikum 2
+![1](screenshots/Praktikum%202/1.jpg)
+![1](screenshots/Praktikum%202/2.jpg)
+![1](screenshots/Praktikum%202/3.jpg)
+![1](screenshots/Praktikum%202/4.jpg)
+![1](screenshots/Praktikum%202/6.jpg)
+![1](screenshots/Praktikum%202/7.jpg)
+![1](screenshots/Praktikum%202/8.jpg)
+![1](screenshots/Praktikum%202/9.jpg)
+![1](screenshots/Praktikum%202/10.jpg)
+![1](screenshots/Praktikum%202/11.jpg)
+![1](screenshots/Praktikum%202/12.jpg)
+![1](screenshots/Praktikum%202/18.jpg)
+![1](screenshots/Praktikum%202/13.jpg)
+![1](screenshots/Praktikum%202/14.jpg)
+![1](screenshots/Praktikum%202/15.jpg)
+![1](screenshots/Praktikum%202/16.jpg)
+![1](screenshots/Praktikum%202/17.jpg)
+![1](screenshots/Praktikum%202/19.jpg)
+![1](screenshots/Praktikum%202/20.jpg)
+![1](screenshots/Praktikum%202/21.jpg)
+![1](screenshots/Praktikum%202/22.jpg)
+![1](screenshots/Praktikum%202/23.jpg)
+![1](screenshots/Praktikum%202/24.jpg)
+![1](screenshots/Praktikum%202/25.jpg)
+
+# Praktikum 3
+![1](screenshots/Praktikum%203/1.jpg)
+![1](screenshots/Praktikum%203/2.jpg)
+![1](screenshots/Praktikum%203/3.jpg)
+![1](screenshots/Praktikum%203/4.jpg)
+![1](screenshots/Praktikum%203/5.jpg)
+
 
 
 
