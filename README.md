@@ -1,6 +1,24 @@
 # Praktikum 1
-![1](/Screenshot_Pemrograman_Web/1.png)
-![1](/Screenshot_Pemrograman_Web/2.jpg)
+![1](screenshots/Praktikum%201/1.png)
+![1](screenshots/Praktikum%201/2.jpg)
+![1](screenshots/Praktikum%201/3.jpg)
+![1](screenshots/Praktikum%201/4.jpg)
+![1](screenshots/Praktikum%201/5.jpg)
+![1](screenshots/Praktikum%201/6.jpg)
+![1](screenshots/Praktikum%201/7.jpg)
+![1](screenshots/Praktikum%201/8.jpg)
+![1](screenshots/Praktikum%201/9.jpg)
+![1](screenshots/Praktikum%201/10.jpg)
+![1](screenshots/Praktikum%201/11.jpg)
+![1](screenshots/Praktikum%201/12.jpg)
+![1](screenshots/Praktikum%201/13.jpg)
+![1](screenshots/Praktikum%201/14.jpg)
+![1](screenshots/Praktikum%201/15.jpg)
+![1](screenshots/Praktikum%201/16.jpg)
+![1](screenshots/Praktikum%201/17.jpg)
+![1](screenshots/Praktikum%201/18.jpg)
+![1](screenshots/Praktikum%201/19.jpg)
+![1](screenshots/Praktikum%201/20.jpg)
 
 
 
