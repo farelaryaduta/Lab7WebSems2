@@ -1,3 +1,10 @@
+# Praktikum 1
+![1](/Screenshot_Pemrograman_Web/1.png)
+![1](/Screenshot_Pemrograman_Web/2.jpg)
+
+
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
